@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{3366ABFB-D648-4941-89D5-654F711E7634}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{3366ABFB-D648-4941-89D5-654F711E7634}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism(Ornek)", "Polymorphism(Ornek)\Polymorphism(Ornek).csproj", "{18D44BAD-3C72-4F95-A801-2BB0FE44E5B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism(Ornek)", "Polymorphism(Ornek)\Polymorphism(Ornek).csproj", "{18D44BAD-3C72-4F95-A801-2BB0FE44E5B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodHiding", "MethodHiding\MethodHiding.csproj", "{05D9BE19-FA1B-4412-A284-9696984E3F0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodHiding", "MethodHiding\MethodHiding.csproj", "{05D9BE19-FA1B-4412-A284-9696984E3F0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism(Prop)", "Polymorphism(Prop)\Polymorphism(Prop).csproj", "{6A10AE58-6AB3-4EC8-B798-81E3CC13AEEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism(Prop)", "Polymorphism(Prop)\Polymorphism(Prop).csproj", "{6A10AE58-6AB3-4EC8-B798-81E3CC13AEEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sealed_Keyword", "Sealed_Keyword\Sealed_Keyword.csproj", "{81BBE01D-2DDA-4732-B2A3-93ABEA76AF22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sealed_Class", "Sealed_Class\Sealed_Class.csproj", "{74EACCFD-62E1-4A91-B0D2-61AE4BBF6C28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{6A10AE58-6AB3-4EC8-B798-81E3CC13AEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A10AE58-6AB3-4EC8-B798-81E3CC13AEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A10AE58-6AB3-4EC8-B798-81E3CC13AEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81BBE01D-2DDA-4732-B2A3-93ABEA76AF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81BBE01D-2DDA-4732-B2A3-93ABEA76AF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81BBE01D-2DDA-4732-B2A3-93ABEA76AF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81BBE01D-2DDA-4732-B2A3-93ABEA76AF22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74EACCFD-62E1-4A91-B0D2-61AE4BBF6C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74EACCFD-62E1-4A91-B0D2-61AE4BBF6C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74EACCFD-62E1-4A91-B0D2-61AE4BBF6C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74EACCFD-62E1-4A91-B0D2-61AE4BBF6C28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
