@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{3366ABFB-D648-4941-89D5-654F711E7634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism(Ornek)", "Polymorphism(Ornek)\Polymorphism(Ornek).csproj", "{18D44BAD-3C72-4F95-A801-2BB0FE44E5B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodHiding", "MethodHiding\MethodHiding.csproj", "{05D9BE19-FA1B-4412-A284-9696984E3F0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism(Prop)", "Polymorphism(Prop)\Polymorphism(Prop).csproj", "{6A10AE58-6AB3-4EC8-B798-81E3CC13AEEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3366ABFB-D648-4941-89D5-654F711E7634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3366ABFB-D648-4941-89D5-654F711E7634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3366ABFB-D648-4941-89D5-654F711E7634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3366ABFB-D648-4941-89D5-654F711E7634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18D44BAD-3C72-4F95-A801-2BB0FE44E5B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D44BAD-3C72-4F95-A801-2BB0FE44E5B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D44BAD-3C72-4F95-A801-2BB0FE44E5B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D44BAD-3C72-4F95-A801-2BB0FE44E5B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D9BE19-FA1B-4412-A284-9696984E3F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D9BE19-FA1B-4412-A284-9696984E3F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D9BE19-FA1B-4412-A284-9696984E3F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D9BE19-FA1B-4412-A284-9696984E3F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A10AE58-6AB3-4EC8-B798-81E3CC13AEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A10AE58-6AB3-4EC8-B798-81E3CC13AEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A10AE58-6AB3-4EC8-B798-81E3CC13AEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A10AE58-6AB3-4EC8-B798-81E3CC13AEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8629CFD-940E-4B97-A680-6CA5272DA1C5}
+	EndGlobalSection
+EndGlobal
